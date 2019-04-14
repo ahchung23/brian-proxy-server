@@ -1,13 +1,13 @@
-# Project Name
+# Fandangit
 
-> Project description
+> This was a group project I worked on during my time at Hack Reactor. The focus was on the front-end with less emphasis on server-side and database implementation. The goal was to clone a popular website's item page using our own randomly generated data. Each group member was tasked a separate component to work on.
+> Some of the technologies utilized in this project were React, Node, Express, Mongo DB, AWS Elastic Beanstalk, Mongo Atlas and more.
 
 ## Related Projects
 
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
+  - https://github.com/team-fry-hrr37-fec/main-video-info
+  - https://github.com/team-fry-hrr37-fec/video-player-and-carousel
+  - https://github.com/team-fry-hrr37-fec/cast-and-crew
 
 ## Table of Contents
 
